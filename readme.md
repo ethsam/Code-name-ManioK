@@ -1,6 +1,6 @@
 # ManioK - Micro Framework MVC
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://www.linkedin.com/in/developpeur-web-mobile/)
+[![N|Solid](https://raw.githubusercontent.com/ethsam/ManioK/master/assets/img/created-by-ethsam.png)](https://www.linkedin.com/in/developpeur-web-mobile/)
 
 Maniok is a light, fast and simple micro framework MVC.
 

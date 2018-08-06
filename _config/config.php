@@ -27,7 +27,7 @@ define("PATH", substr($_SERVER['PHP_SELF'], 0, -9)); // Pour images, fichiers et
 
 // DataBase informations
 define("DATABASE_HOST", "localhost");
-define("DATABASE_NAME", "mvc");
+define("DATABASE_NAME", "maniok");
 define("DATABASE_USER", "root");
 define("DATABASE_PASSWORD", "root");
 
