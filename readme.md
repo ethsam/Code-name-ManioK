@@ -22,7 +22,8 @@ ManioK uses a number of open source projects to work properly:
 
 Just :
 - download
-- unzip
+- unzip and paste to server directory
+- rename htaccess.txt to .htaccess
 - Launch php/MySql server
 
 ### Development
