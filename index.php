@@ -28,8 +28,8 @@
 
   } else {
 
-    // return error
-    echo 'Error 404';
+    // return 404 error
+    include_once 'views/includes/error_404.php';
 
   }
 
