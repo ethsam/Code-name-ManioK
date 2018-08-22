@@ -7,7 +7,7 @@
     <title></title>
 
     <!-- Bootstrap -->
-    <link rel="stylesheet" href="assets/vendor/boostrap-4.1.3/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/vendor/bootstrap-4.1.3/bootstrap.min.css">
     <link rel="stylesheet" href="assets/vendor/fontawesome-5.2.0/fontawesome.min.css">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
