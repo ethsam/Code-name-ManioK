@@ -24,7 +24,13 @@ ManioK uses a number of open source projects to work properly:
 Just :
 - download
 - unzip and paste to server directory
-- rename htaccess.txt to .htaccess
+- rename htaccess.txt to .htaccess and verify content :
+  ```apache
+  DirectoryIndex index.php
+  RewriteEngine On
+  RewriteRule ^([a-zA-Z0-9_\-]*)?/?$ index.php?page=$1&%{QUERY_STRING}
+  ```
+
 - Launch php/MySql server
 
 ### Development
