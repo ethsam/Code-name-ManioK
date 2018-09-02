@@ -5,4 +5,6 @@
         header('Location: login');
     }
 
+    $test = new Database();
+    var_dump($test);
 ?>
